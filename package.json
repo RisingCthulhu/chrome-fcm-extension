@@ -1,0 +1,11 @@
+{
+  "name": "chrome-fcm-extension",
+  "version": "1.0.0",
+  "description": "Google chrome extensions to test the FCM functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
